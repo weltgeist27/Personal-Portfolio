@@ -137,11 +137,11 @@ a {
   margin-right: 2rem;
 }
 
-.nav-list li {
+.nav-list > li {
   padding: 1rem;
 }
 
-.nav-list li:hover {
+.nav-list > li:hover {
   background: rgba(69,86,125,0.9);
 }
 
