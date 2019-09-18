@@ -123,8 +123,8 @@ a {
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
   display: flex;
   justify-content: flex-end;
-  margin: 0;
-  padding: 0;
+  top: 0;
+  left: 0;
   position: fixed;
   text-decoration: none;
   width: 100%;
